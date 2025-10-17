@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/TestGMP.dir/src/TestGMP.cpp.o CMakeFiles/TestGMP.dir/src/Tools.cpp.o -o TestGMP  /home/ubuntu/clion/TestOpTime/libs/core.a -lgmp -lgmpxx /usr/local/lib/libbenchmark.a -lrt 

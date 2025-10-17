@@ -1,3 +1,0 @@
-/home/ubuntu/clion/TestOpTime/build/CMakeFiles/TestGMP.dir
-/home/ubuntu/clion/TestOpTime/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/clion/TestOpTime/build/CMakeFiles/rebuild_cache.dir
