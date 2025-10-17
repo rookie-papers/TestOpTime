@@ -521,8 +521,7 @@ BENCHMARK(Miracl_RSA_Enc);
 BENCHMARK(Miracl_RSA_Dec);
 
 // 基准测试的入口
-//BENCHMARK_MAIN();
-
+BENCHMARK_MAIN();
 
 
 //int main() {
